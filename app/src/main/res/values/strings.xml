@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Toss it</string>
+    <string name="mainTxt">Let\'s do Coin Toss!</string>
+    <string name="Go">Go!</string>
+    <string name="hwin">Head Wins! 🚩 </string>
+    <string name="twin">Tail Wins! 🚩 </string>
+    <string name="draw">Draw!</string>
+    <string name="attemptTxt">Attempt - </string>
+    <string name="mainBtn1">Coin Toss</string>
+    <string name="mainBtn2">Dice Roll</string>
+    <string name="cntntDes">coin image</string>
+    <string name="diceLabel">Let\'s roll the dice!</string>
+    <string name="p1">Player 1</string>
+    <string name="p2">Player 2</string>
+    <string name="p1win">Player 1 Wins! 🚩 </string>
+    <string name="p2win">Player 2 Wins! 🚩 </string>
+</resources>
